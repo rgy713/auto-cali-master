@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiNST_Calibrate", "AiNST_Calibrate.csproj", "{D2AA25F8-7A01-4D27-8B09-7093DB17B0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AA25F8-7A01-4D27-8B09-7093DB17B0EC}.Debug|x86.ActiveCfg = Debug|x86
+		{D2AA25F8-7A01-4D27-8B09-7093DB17B0EC}.Debug|x86.Build.0 = Debug|x86
+		{D2AA25F8-7A01-4D27-8B09-7093DB17B0EC}.Release|x86.ActiveCfg = Release|x86
+		{D2AA25F8-7A01-4D27-8B09-7093DB17B0EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF91262-B31C-4120-93C3-7F8025F925A4}
+	EndGlobalSection
+EndGlobal
